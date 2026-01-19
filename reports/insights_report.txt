@@ -1,0 +1,94 @@
+================================================================================
+E-COMMERCE SALES PERFORMANCE ANALYSIS - INSIGHTS REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Revenue: $1,151,129.97
+Total Orders: 5,000
+Average Order Value: $230.23
+Unique Customers: 3,840
+
+KEY INSIGHTS
+--------------------------------------------------------------------------------
+
+1. TOP PERFORMING CATEGORY: Electronics
+   - Revenue: $427,307.76 (37.12% of total)
+   - Orders: 635
+   - Recommendation: Focus marketing efforts and inventory on Electronics
+
+2. TOP PERFORMING REGION: North America
+   - Revenue: $203,134.68 (17.65% of total)
+   - Recommendation: Expand presence in North America and replicate success strategies
+
+3. TOP PRODUCT: Laptop
+   - Revenue: $57,347.99
+   - Orders: 88
+   - Recommendation: Ensure adequate stock and consider bundling opportunities
+
+4. PRIMARY CUSTOMER SEGMENT: 46-55
+   - Revenue: $234,743.01
+   - Customers: 963
+   - Recommendation: Tailor marketing campaigns and product recommendations for 46-55
+
+5. PREFERRED PAYMENT METHOD: Credit Card
+   - Usage: 20.26% of all transactions
+   - Recommendation: Ensure seamless Credit Card experience and consider incentives
+
+6. SEASONAL TRENDS
+   - Best Month: 2024-01 (Revenue: $58,834.07)
+   - Worst Month: 2023-02 (Revenue: $38,404.13)
+   - Recommendation: Plan inventory and promotions around peak months
+
+================================================================================
+STRATEGIC RECOMMENDATIONS
+================================================================================
+
+1. PRODUCT PORTFOLIO OPTIMIZATION
+   - Focus on top-performing categories: Electronics, Sports, Home & Kitchen
+   - Review underperforming categories and consider promotions or discontinuation
+   - Develop product bundles featuring top-selling items
+
+2. MARKET EXPANSION
+   - Prioritize growth in North America (highest revenue region)
+   - Investigate low-performing regions for improvement opportunities
+   - Consider regional marketing campaigns tailored to local preferences
+
+3. CUSTOMER ENGAGEMENT
+   - Target 46-55 demographic with personalized campaigns
+   - Implement loyalty programs to increase customer retention
+   - Average Order Value: $230.23 - Consider upselling strategies
+
+4. OPERATIONAL EFFICIENCY
+   - Discount Rate: 2.58% - Review discount strategy
+   - Optimize payment processing for Credit Card (most used method)
+   - Monitor inventory levels for top products to avoid stockouts
+
+5. GROWTH OPPORTUNITIES
+   - Cross-sell complementary products from top categories
+   - Develop seasonal campaigns aligned with peak sales months
+   - Expand product range in high-performing categories
+
+================================================================================
+PERFORMANCE METRICS SUMMARY
+================================================================================
+
+Financial Metrics:
+  - Total Revenue: $1,151,129.97
+  - Average Order Value: $230.23
+  - Total Discount Given: $29,730.52
+  - Discount Rate: 2.58%
+
+Operational Metrics:
+  - Total Orders: 5,000
+  - Total Quantity Sold: 9,471 units
+  - Average Quantity per Order: 1.89 units
+
+Customer Metrics:
+  - Unique Customers: 3,840
+  - Unique Products: 64
+  - Unique Categories: 8
+
+================================================================================
+END OF REPORT
+================================================================================
